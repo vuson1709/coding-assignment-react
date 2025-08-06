@@ -1,0 +1,10 @@
+
+[36m>[39m [7m[1m[36m NX [39m[22m[27m [1mWeb Development Server is listening at http://localhost:4200/[22m
+
+Entrypoint [1mmain[39m[22m [1m[33m[big][39m[22m 1.71 MiB (2.18 MiB) = [1m[32mruntime.js[39m[22m 47.6 KiB [1m[32mvendor.js[39m[22m 1.66 MiB [1m[32mmain.css[39m[22m 103 bytes [1m[32mmain.js[39m[22m 10.9 KiB 4 auxiliary assets
+Entrypoint [1mstyles[39m[22m 219 KiB (277 KiB) = [1m[32mruntime.js[39m[22m 47.6 KiB [1m[32mstyles.css[39m[22m 119 bytes [1m[32mstyles.js[39m[22m 172 KiB 3 auxiliary assets
+chunk (runtime: runtime) [1m[32mmain.css[39m[22m, [1m[32mmain.js[39m[22m (main) 9.24 KiB (javascript) 65 bytes (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mruntime.js[39m[22m (runtime) 31.9 KiB [1m[33m[entry][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mstyles.css[39m[22m, [1m[32mstyles.js[39m[22m (styles) 166 KiB (javascript) 80 bytes (css/mini-extract) [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m
+chunk (runtime: runtime) [1m[32mvendor.js[39m[22m (vendor) (id hint: vendor) 1.65 MiB [1m[33m[initial][39m[22m [1m[32m[rendered][39m[22m [1m[33msplit chunk (cache group: vendor) (name: vendor)[39m[22m
+webpack compiled [1m[32msuccessfully[39m[22m (499e5770c3552f3f)

@@ -1,0 +1,215 @@
+[1m[2mDetermining test suites to run...[22m[22m[999D[K
+
+[1mTest Suites: [22m0 of 2 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 3 s
+[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticket-details/[22m[1mticket-details.spec.tsx[22m
+
+[1mTest Suites: [22m0 of 2 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 3 s
+[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticket-details/[22m[1mticket-details.spec.tsx[22m
+
+[1mTest Suites: [22m0 of 2 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        1 s, estimated 3 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticket-details/[22m[1mticket-details.spec.tsx[22m
+
+[1mTest Suites: [22m0 of 2 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        2 s, estimated 3 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[0m[7m[1m[32m PASS [39m[22m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticket-details/[22m[1mticket-details.spec.tsx[22m
+
+[1mTest Suites: [22m0 of 2 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        2 s, estimated 3 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/tickets/[22m[1mtickets.spec.tsx[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticket-details/[22m[1mticket-details.spec.tsx[22m
+
+[1mTest Suites: [22m0 of 2 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        2 s, estimated 3 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticket-details/[22m[1mticket-details.spec.tsx[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 2 total
+[1mTests:       [22m[1m[31m1 failed[39m[22m, [1m[32m6 passed[39m[22m, 7 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        2 s, estimated 3 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[0m[7m[1m[31m FAIL [39m[22m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticket-details/[22m[1mticket-details.spec.tsx[22m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticket-details/[22m[1mticket-details.spec.tsx[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 2 total
+[1mTests:       [22m[1m[31m1 failed[39m[22m, [1m[32m6 passed[39m[22m, 7 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        2 s, estimated 3 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[1m[31m  [1m● [22m[1mTicketDetails › should render ticket details when data loads[39m[22m
+
+    TestingLibraryElementError: Found multiple elements with the text: Alice
+
+    Here are the matching elements:
+
+    Ignored nodes: comments, script, style
+    [36m<span>[39m
+      [0mAlice[0m
+    [36m</span>[39m
+
+    Ignored nodes: comments, script, style
+    [36m<button[39m
+      [33mclass[39m=[32m"userButton selected"[39m
+    [36m>[39m
+      [0mAlice[0m
+    [36m</button>[39m
+
+    (If this is intentional, then use the `*AllBy*` variant of the query (like `queryAllByText`, `getAllByText`, or `findAllByText`)).
+
+    Ignored nodes: comments, script, style
+    [36m<body>[39m
+      [36m<div>[39m
+        [36m<div[39m
+          [33mclass[39m=[32m"container"[39m
+        [36m>[39m
+          [36m<div[39m
+            [33mclass[39m=[32m"header"[39m
+          [36m>[39m
+            [36m<button[39m
+              [33mclass[39m=[32m"backButton"[39m
+            [36m>[39m
+              [0m← Back to Tickets[0m
+            [36m</button>[39m
+            [36m<h2>[39m
+              [0mTicket #[0m
+              [0m1[0m
+            [36m</h2>[39m
+          [36m</div>[39m
+          [36m<div[39m
+            [33mclass[39m=[32m"ticketInfo"[39m
+          [36m>[39m
+            [36m<div[39m
+              [33mclass[39m=[32m"description"[39m
+            [36m>[39m
+              [36m<h3>[39m
+                [0mDescription[0m
+              [36m</h3>[39m
+              [36m<p>[39m
+                [0mInstall a monitor arm[0m
+              [36m</p>[39m
+            [36m</div>[39m
+            [36m<div[39m
+              [33mclass[39m=[32m"status"[39m
+            [36m>[39m
+              [36m<h3>[39m
+                [0mStatus[0m
+              [36m</h3>[39m
+              [36m<span[39m
+                [33mclass[39m=[32m"statusBadge open"[39m
+              [36m>[39m
+                [0mOpen[0m
+              [36m</span>[39m
+            [36m</div>[39m
+            [36m<div[39m
+              [33mclass[39m=[32m"assignee"[39m
+            [36m>[39m
+              [36m<h3>[39m
+                [0mAssigned To[0m
+              [36m</h3>[39m
+              [36m<div[39m
+                [33mclass[39m=[32m"assignedUser"[39m
+              [36m>[39m
+                [36m<span>[39m
+                  [0mAlice[0m
+                [36m</span>[39m
+                [36m<button[39m
+                  [33mclass[39m=[32m"unassignButton"[39m
+                [36m>[39m
+                  [0mUnassign[0m
+                [36m</button>[39m
+              [36m</div>[39m
+            [36m</div>[39m
+          [36m</div>[39m
+          [36m<div[39m
+            [33mclass[39m=[32m"actions"[39m
+          [36m>[39m
+            [36m<div[39m
+              [33mclass[39m=[32m"actionSection"[39m
+            [36m>[39m
+              [36m<h3>[39m
+                [0mAssign User[0m
+              [36m</h3>[39m
+              [36m<div[39m
+                [33mclass[39m=[32m"userList"[39m
+              [36m>[39m
+                [36m<button[39m
+                  [33mclass[39m=[32m"userButton selected"[39m
+                [36m>[39m
+                  [0mAlice[0m
+                [36m</button>[39m
+                [36m<button[39m
+                  [33mclass[39m=[32m"userButton "[39m
+                [36m>[39m
+                  [0mBob[0m
+                [36m</button>[39m
+              [36m</div>[39m
+            [36m</div>[39m
+            [36m<div[39m
+              [33mclass[39m=[32m"actionSection"[39m
+            [36m>[39m
+              [36m<h3>[39m
+                [0mMark as [0m
+                [0mComplete[0m
+              [36m</h3>[39m
+              [36m<button[39m
+                [33mclass[39m=[32m"completeButton complete"[39m
+              [36m>[39m
+                [0mMark as Complete[0m
+              [36m</button>[39m
+            [36m</div>[39m
+          [36m</div>[39m
+        [36m</div>[39m
+      [36m</div>[39m
+    [36m</body>[39m
+[2m[22m
+[2m    [0m [90m 73 |[39m     expect(screen[33m.[39mgetByText([32m'Install a monitor arm'[39m))[33m.[39mtoBeInTheDocument()[33m;[39m[0m[22m
+[2m    [0m [90m 74 |[39m     expect(screen[33m.[39mgetByText([32m'Open'[39m))[33m.[39mtoBeInTheDocument()[33m;[39m[0m[22m
+[2m    [0m[31m[1m>[22m[2m[39m[90m 75 |[39m     expect(screen[33m.[39mgetByText([32m'Alice'[39m))[33m.[39mtoBeInTheDocument()[33m;[39m[0m[22m
+[2m    [0m [90m    |[39m                   [31m[1m^[22m[2m[39m[0m[22m
+[2m    [0m [90m 76 |[39m   })[33m;[39m[0m[22m
+[2m    [0m [90m 77 |[39m[0m[22m
+[2m    [0m [90m 78 |[39m   it([32m'should show error state when fetch fails'[39m[33m,[39m [36masync[39m () [33m=>[39m {[0m[22m
+[2m[22m
+[2m      [2mat Object.getElementError ([22m[2m../node_modules/@testing-library/dom/dist/config.js[2m:37:19)[22m[2m[22m
+[2m      [2mat getElementError ([22m[2m../node_modules/@testing-library/dom/dist/query-helpers.js[2m:20:35)[22m[2m[22m
+[2m      [2mat getMultipleElementsFoundError ([22m[2m../node_modules/@testing-library/dom/dist/query-helpers.js[2m:23:10)[22m[2m[22m
+[2m      [2mat [22m[2m../node_modules/@testing-library/dom/dist/query-helpers.js[2m:55:13[22m[2m[22m
+[2m      [2mat [22m[2m../node_modules/@testing-library/dom/dist/query-helpers.js[2m:95:19[22m[2m[22m
+[2m      [2mat Object.getByText ([22m[2m[0m[36msrc/app/ticket-details/ticket-details.spec.tsx[39m[0m[2m:75:19)[22m[2m[22m
+
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m client [39m[27m[0m [2mclient/src/app/ticket-details/[22m[1mticket-details.spec.tsx[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 2 total
+[1mTests:       [22m[1m[31m1 failed[39m[22m, [1m[32m6 passed[39m[22m, 7 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        2 s, estimated 3 s
+[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[32m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[37m█[39m[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[999D[K[1mTest Suites: [22m[1m[31m1 failed[39m[22m, [1m[32m1 passed[39m[22m, 2 total
+[1mTests:       [22m[1m[31m1 failed[39m[22m, [1m[32m6 passed[39m[22m, 7 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        2.917 s, estimated 3 s
+[2mRan all test suites[22m[2m.[22m
